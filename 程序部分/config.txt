@@ -1,0 +1,14 @@
+# 闹钟状态，关闭（OFF）、工作日开启（Weekday）、周末开启（Weekend）
+AlarmStatus=Weekday
+
+# 工作日闹钟时间，24小时制
+WeekdayAlarmTime=7
+
+# 周末闹钟时间，采用24小时制
+WeekendAlarmTime=9
+
+# 背光开关
+Backlight=on
+
+# 倒计时剩余时间，范围1~60分钟
+CountdownRemainingTime=35
